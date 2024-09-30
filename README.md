@@ -16,4 +16,8 @@ This project is a clear overview on how to display different screen sizes on dif
 
 - link: https://winkypinkyy.github.io/se_project_spots/
 
+**Project video**
+
+- link: https://drive.google.com/file/d/1oGCsDkegsUpuX867wizDKLc3geFEFLxA/view?usp=sharing
+
 ###

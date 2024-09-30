@@ -53,6 +53,9 @@
   border: none;
   gap: 8px;
   cursor: pointer;
+  display: flex;
+  padding: 0;
+  justify-content: center;
 }
 
 .profile__edit-btn:hover {
@@ -68,8 +71,11 @@
   height: 52px;
   border-radius: 10px;
   gap: 8px;
-  margin-top: 160px;
+  margin-top: auto;
   cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .profile__add-btn:hover {
