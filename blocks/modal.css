@@ -27,17 +27,22 @@
   position: relative;
   width: 100%;
   box-sizing: border-box;
+  border-radius: 8px;
 }
 
 .modal__close-btn {
   position: absolute;
-  top: 32px;
+  top: 28px;
   right: 50px;
   width: 40px;
   height: 40px;
   background-image: url(../images/Close\ Icon.svg);
   background-color: #fff;
   border: none;
+  padding: 0;
+  margin: 0;
+  background-size: 35px;
+  background-position: center;
 }
 
 .modal__title {
@@ -58,6 +63,9 @@
 .modal__input {
   padding: 16px 12px;
   border-radius: 8px;
+  border-color: rgba(33, 33, 33, 0.4);
+  border-style: solid;
+  border-width: 1px;
 }
 
 .modal__submit-btn {
